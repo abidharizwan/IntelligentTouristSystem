@@ -1,0 +1,14 @@
+Install docker  (https://docs.docker.com/desktop/install/windows-install/)
+Open the folder in the vs code
+Open the terminal 
+Run the command :  docker-compose up   (dont close this terminal)
+run the sql queries in phpmyadmin
+
+open phpmyadmin (localhost:8002)
+select the db MYSQL_DATABASE
+run the queries on the sql tab and create necessary tables
+
+to access project (localhost:8000)
+
+make sure to turn off your server xaamp or waamp 
+
